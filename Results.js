@@ -3,7 +3,7 @@ var _location = null;
 var _cuisines = null;
 var _meal = null;
 var _price =  null;
-var _dataFile = '/52685-Code-Project-/Database.xlsx';
+var _dataFile = '/foodle-Code-Project/Database.xlsx';
 var _json_restaurants;
 var _matchedBySuburb = [];
 
