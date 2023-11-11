@@ -65,6 +65,15 @@ div label input {
   text-align: center;
 }
 
+nav li > a:hover {
+    color: rgb(233, 85, 97);
+    text-decoration: underline;
+}
+
+.active {
+    color: rgb(233, 85, 97);
+}
+
 .foodle_h2 {
   font-family: Arial, sans-serif;
   font-size: 35px;
