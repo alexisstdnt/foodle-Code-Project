@@ -9,9 +9,9 @@ Libraries used:
 - Xlsx. (2022). (Version 0.17.5)
 
 Description of files 
-- index.html contains the content and structure for the first page - its main purpose is to collect parameters that will be used to search the data
-- GetStarted.js contains the Javascript methods that either serve as event handlers for controls on index.html or implement validation rules for the form
-- results.html contains the content and structure for the second page - its main purpose is to display the results of matching restaurants 
-- Results.js contains the Javascript methods that retrieve the items from localStorage, translates the data into a JSON object and parses the data 
-- web.css contains the styling, layout, visual effects and background colour for the website 
-- Database.xlsx is the data source 
+- **index.html** contains the content and structure for the first page - its main purpose is to collect parameters that will be used to search the data
+- **GetStarted.js** contains the Javascript methods that either serve as event handlers for controls on **index.html** or implement validation rules for the form
+- **results.html** contains the content and structure for the second page - its main purpose is to display the results of matching restaurants 
+-** Results.js** contains the Javascript methods that retrieve the items from localStorage, translates the data into a JSON object and parses the data 
+- **web.css** contains the styling, layout, visual effects and background colour for the website 
+- **Database.xlsx** is the data source 
